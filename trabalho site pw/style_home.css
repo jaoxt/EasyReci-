@@ -1,0 +1,267 @@
+.{
+    margin: 0;
+    padding: 0;
+}
+
+.bnt {
+    color: #E02828;
+    position: absolute;
+    position: absolute;
+    width: 58.99px;
+    height: 18.52px;
+    left: 943px;
+    top: 31px;
+}
+
+a:hover {
+    color: darkred;
+}
+
+.bnt_about {
+    text-decoration: none;
+    color: #E02828;
+    position: absolute;
+    position: absolute;
+    width: 62.78px;
+    height: 18.95px;
+    left: 1068px;
+    top: 31px;
+}
+
+.bnt_music {
+    text-decoration: none;
+    color: #E02828;
+    position: absolute;
+    position: absolute;
+    width: 66.57px;
+    height: 19.38px;
+    left: 1193px;
+    top: 31px;    
+}
+
+.ass {
+    color: #E02828;
+}
+
+.ass1 {
+    color: #E02828;
+}
+
+.ass2 {
+    color: #E02828;
+}
+
+.titulo {
+    position: absolute;
+    position: absolute;
+    text-decoration: none;
+    width: 328px;
+    height: 67px;
+    left: 89px;
+    top: 151px;
+
+    font-family: 'Arial';
+    font-style: normal;
+    font-weight: 800;
+    font-size: 30px;
+    line-height: 67px;
+    /* identical to box height */
+
+    text-align: center;
+
+    color: #E02828;
+}
+
+.descricao{
+    position: absolute;
+    width: 434px;
+    height: 38px;
+    left: 55px;
+    top: 224px;
+    
+    font-family: 'Arial';
+    font-style: normal;
+    font-weight: 800;
+    font-size: 15px;
+    line-height: 19px;
+    text-align: center;
+    
+    color: #000000;    
+}
+
+.linktitulo {
+    color: #E02828;
+}
+
+.titulo2 {
+    position: absolute;
+    position: absolute;
+    width: 302px;
+    height: 44px;
+    left: 133px;
+    top: 358px;
+
+    font-family: 'Arial';
+    font-style: normal;
+    font-weight: 800;
+    font-size: 30px;
+    line-height: 44px;
+    text-align: center;
+
+    color: #E02828;
+}
+
+.linktitulo2 {
+    color: #E02828;
+}
+
+.titulo3 {
+    position: absolute;
+    width: 403px;
+    height: 38px;
+    left: 814px;
+    top: 158px;
+
+    font-family: 'Arial';
+    font-style: normal;
+    font-weight: 800;
+    font-size: 30px;
+    line-height: 38px;
+    /* identical to box height */
+
+    text-align: center;
+
+    color: #E02828;
+}
+
+.linktitulo3 {
+    color: #E02828;
+}
+
+.titulo4 {
+    position: absolute;
+    position: absolute;
+    width: 346px;
+    height: 38px;
+    left: 892px;
+    top: 358px;
+    
+    font-family: 'Arial';
+    font-style: normal;
+    font-weight: 800;
+    font-size: 30px;
+    line-height: 38px;
+    /* identical to box height */
+    
+    text-align: center;
+    
+    color: #E02828;
+    
+}
+
+.linktitulo4 {
+    color: #E02828;
+}
+
+.foto {
+    position: absolute;
+    width: 399px;
+    height: 407px;
+    left: 458px;
+    top: 133px;
+}
+
+.escrita {
+    position: absolute;
+    width: 434px;
+    height: 38px;
+    left: 55px;
+    top: 224px;
+
+    font-family: 'Arial';
+    font-style: normal;
+    font-weight: 800;
+    font-size: 15px;
+    line-height: 19px;
+    text-align: center;
+
+    color: #000000;
+}
+
+.linkescrita {
+    color: #000000;
+}
+
+.escrita2 {
+    position: absolute;
+    position: absolute;
+    width: 393px;
+    height: 80px;
+    left: 88px;
+    top: 413px;
+
+    font-family: 'Arial';
+    font-style: normal;
+    font-weight: 800;
+    font-size: 15px;
+    line-height: 25px;
+    text-align: center;
+
+    color: #000000;
+}
+
+.linkescrita2 {
+    color: #000000;
+}
+
+.escrita3 {
+    position: absolute;
+width: 399px;
+height: 80px;
+left: 818px;
+top: 205px;
+
+font-family: 'Arial';
+font-style: normal;
+font-weight: 800;
+font-size: 15px;
+line-height: 25px;
+text-align: center;
+
+color: #000000;
+   
+}
+
+.linkescrita3 {
+    color: #000000;
+}
+
+.escrita4 {
+    position: absolute;
+    position: absolute;
+    width: 338px;
+    height: 80px;
+    left: 892px;
+    top: 413px;
+
+    font-family: 'Arial';
+    font-style: normal;
+    font-weight: 800;
+    font-size: 15px;
+    line-height: 25px;
+    text-align: center;
+
+    color: #000000;
+}
+
+.linkescrita4 {
+    color: #000000;
+}
+
+.logo {
+    position: absolute;
+    width: 311px;
+    height: 139px;
+    left: -18px;
+    top: -12px;
+}

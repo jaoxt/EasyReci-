@@ -1,0 +1,90 @@
+.{
+    margin: 0;
+    padding: 0;
+}
+
+.bnt {
+    color: #E02828;
+    position: absolute;
+    position: absolute;
+    width: 58.99px;
+    height: 18.52px;
+    left: 943px;
+    top: 31px;
+}
+
+.ass2 {
+    color: #E02828;
+}
+
+.bnt_about {
+    text-decoration: none;
+    color: #E02828;
+    position: absolute;
+    position: absolute;
+    width: 62.78px;
+    height: 18.95px;
+    left: 1068px;
+    top: 31px;
+}
+
+.bnt_music {
+    text-decoration: none;
+    color: #E02828;
+    position: absolute;
+    position: absolute;
+    width: 66.57px;
+    height: 19.38px;
+    left: 1193px;
+    top: 31px;    
+}
+
+.ass {
+    color: #E02828;
+}
+
+.ass1 {
+    color: #E02828;
+}
+
+.logo {
+    position: absolute;
+    width: 311px;
+    height: 139px;
+    left: -18px;
+    top: -12px;
+}
+
+.escrita {
+    position: absolute;
+    width: 1190px;
+    height: 50px;
+    left: 49px;
+    top: 94px;
+
+    font-family: 'Arial';
+    font-style: normal;
+    font-weight: 800;
+    font-size: 15px;
+    line-height: 25px;
+    text-align: center;
+
+    color: #000000;
+}
+
+.escrita2 {
+    position: absolute;
+    width: 601px;
+    height: 25px;
+    left: 10px;
+    top: 181px;
+    
+    font-family: 'Arial';
+    font-style: normal;
+    font-weight: 800;
+    font-size: 15px;
+    line-height: 25px;
+    text-align: center;
+    
+    color: #000000;    
+}
